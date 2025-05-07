@@ -60,24 +60,24 @@ Sou apaixonado por tecnologia e sempre busco aprender mais sobre o universo do d
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Canva" 
+    title="Canva"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/canva/original.svg"
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Photoshop" 
+    title="Photoshop"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/photoshop/plain.svg"
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="VS Code" 
+    title="VS Code"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/vscode/original.svg"
