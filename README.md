@@ -1,4 +1,4 @@
-# 👨‍💻 <span translate="no">Codebreaker</span>
+# 👨‍💻 Codebreaker
 **`Desenvolvedor Web`**
 
 Olá! Meu nome é João Vitor, e utilizo o pseudônimo Codebreaker nos meus projetos e redes sociais. Concluí o Ensino Médio aos 17 anos e, atualmente, estou me dedicando ao estudo de HTML5 e CSS3, buscando sempre aprimorar minhas habilidades e desenvolver novos projetos. Minhas linguagens de programação principais são JavaScript, HTML e CSS.
