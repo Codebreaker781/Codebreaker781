@@ -6,9 +6,9 @@ Olá! Meu nome é João Vitor, e utilizo o pseudônimo Codebreaker nos meus proj
 Sou apaixonado por tecnologia e sempre busco aprender mais sobre o universo do desenvolvimento web. Através dos meus projetos, busco aplicar meus conhecimentos e contribuir para a comunidade com soluções criativas e eficientes. Atualmente, estou focado em expandir minhas habilidades como desenvolvedor front-end, explorando novas ferramentas e técnicas para criar experiências cada vez melhores.
 
    <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://www.youtube.com/c/codebreaker781?sub_confirmation=1">
          <img alt="inscritos do YouTube" title="Inscreva-se no meu canal" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC66qj7ddZKiVFlcI8stmPug?color=%23E05D44&label=INSCREVA-SE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-      <a href="https://www.youtube.com/c/fknight">
+      <a href="https://www.youtube.com/c/codebreaker781">
          <img alt="views do youtube" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC66qj7ddZKiVFlcI8stmPug?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
       <a href="https://github.com/Codebreaker781?tab=repositories&sort=stargazers">
         <a href="https://github.com/Codebreaker781?tab=followers">
